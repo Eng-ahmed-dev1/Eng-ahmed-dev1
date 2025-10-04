@@ -2,14 +2,16 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Eng-ahmed-dev1)
 
+![Profile Image](https://github.com/sriharikapu/sriharikapu/blob/master/CO.png?raw=true)
 
 I'm a passionate **Front-end Native & WPF C# developer**. I enjoy learning new technologies, solving problems, and building clean, functional, and beautiful software.
 
 <br/>
 
-### Connect with me:
-[![GitHub](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/Eng-ahmed-dev1)
-[![Telegram](https://img.shields.io/badge/-Ahmed-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/devAhmedl)](https://t.me/devAhmedl)
+### 📬 Connect with me:
+[![GitHub](https://img.shields.io/github/followers/Eng-ahmed-dev1?style=social)](https://github.com/Eng-ahmed-dev1)
+[![Telegram](https://img.shields.io/badge/Telegram-%40devAhmedl-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/devAhmedl)
+[![Gmail](https://img.shields.io/badge/Gmail-ahmed.devmail1%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ahmed.devmail1@gmail.com)
 
 <br/>
 
@@ -22,6 +24,22 @@ I'm a passionate **Front-end Native & WPF C# developer**. I enjoy learning new t
 - **WPF C# Applications**
 - **UI/UX Design**
 - **Open-source Contribution**
+- **Git & GitHub**
+
+<br/>
+
+### 💻 Languages & Tools
+
+<p>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+</p>
 
 <br/>
 
@@ -32,5 +50,5 @@ I'm a passionate **Front-end Native & WPF C# developer**. I enjoy learning new t
 
 <br/>
 
-### Fun Fact:
+### 💡 Fun Fact:
 I enjoy combining **coding with creativity**, making software that is both **functional and visually appealing**.
