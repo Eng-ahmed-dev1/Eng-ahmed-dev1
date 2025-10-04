@@ -52,3 +52,8 @@ I'm a passionate **Front-end Native & WPF C# developer**. I enjoy learning new t
 
 ### 💡 Fun Fact
 I enjoy combining **coding with creativity**, making software that is both **functional and visually appealing**.
+
+
+
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/ahmed.devmail1@gmail.com)
+
