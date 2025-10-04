@@ -1,16 +1,37 @@
-## Hi there 👋
+### Hi there 👋, I'm [Ahmed](https://www.github.com/Eng-ahmed-dev1)  
 
-<!--
-**Eng-ahmed-dev1/Eng-ahmed-dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Eng-ahmed-dev1)
 
-Here are some ideas to get you started:
+![Profile Image](https://github.com/sriharikapu/sriharikapu/blob/master/CO.png?raw=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **Front-end Native & WPF C# developer**. I enjoy learning new technologies, solving problems, and building clean, functional, and beautiful software.
+
+<br/>
+
+### Connect with me:
+[![GitHub](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/Eng-ahmed-dev1)
+[![Telegram](https://img.shields.io/badge/-Ahmed-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/devAhmedl)](https://t.me/devAhmedl)
+
+<br/>
+
+> "Your time is limited, so don't waste it living someone else's life." — Steve Jobs
+
+<br/>
+
+### 🛠 My Skills:
+- **Front-end Native Development**
+- **WPF C# Applications**
+- **UI/UX Design**
+- **Open-source Contribution**
+
+<br/>
+
+### 📊 GitHub Stats
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eng-ahmed-dev1&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-ahmed-dev1&layout=compact&theme=dark&hide_border=true)
+
+<br/>
+
+### Fun Fact:
+I enjoy combining **coding with creativity**, making software that is both **functional and visually appealing**.
