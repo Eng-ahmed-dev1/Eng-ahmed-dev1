@@ -2,7 +2,6 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Eng-ahmed-dev1)
 
-![Profile Image](https://github.com/sriharikapu/sriharikapu/blob/master/CO.png?raw=true)
 
 I'm a passionate **Front-end Native & WPF C# developer**. I enjoy learning new technologies, solving problems, and building clean, functional, and beautiful software.
 
