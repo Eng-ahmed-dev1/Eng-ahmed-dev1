@@ -17,7 +17,7 @@ I'm a passionate **Front-end Native & WPF C# developer**. I enjoy learning new t
 
 <br/>
 
-### 🛠 My Skills:
+### 🛠 My Skills
 - **Front-end Native Development**
 - **WPF C# Applications**
 - **UI/UX Design**
@@ -26,29 +26,28 @@ I'm a passionate **Front-end Native & WPF C# developer**. I enjoy learning new t
 
 <br/>
 
+### 🛠 Frameworks
+[![.NET Core](https://img.shields.io/badge/.NET%20Core-%233178BC?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23239120?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/)
 
-### 💻 Languages & Tools
+<br/>
 
-<p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-</p>
-
+### 💻 Programming Languages
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-%230072C6?style=flat-square&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/en-us/sql/sql-server/)
+[![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Python](https://img.shields.io/badge/Python-%2314354C?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 <br/>
 
 ### 📊 GitHub Stats
-
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eng-ahmed-dev1&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-ahmed-dev1&layout=compact&theme=dark&hide_border=true)
 
 <br/>
 
-### 💡 Fun Fact:
+### 💡 Fun Fact
 I enjoy combining **coding with creativity**, making software that is both **functional and visually appealing**.
