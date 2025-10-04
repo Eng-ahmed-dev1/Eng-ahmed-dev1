@@ -10,6 +10,7 @@ I'm a passionate **Front-end Native & WPF C# developer**. I enjoy learning new t
 [![GitHub](https://img.shields.io/github/followers/Eng-ahmed-dev1?style=social)](https://github.com/Eng-ahmed-dev1)
 [![Telegram](https://img.shields.io/badge/Telegram-%40devAhmedl-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/devAhmedl)
 [![Gmail](https://img.shields.io/badge/Gmail-ahmed.devmail1%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ahmed.devmail1@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
 
 <br/>
 
