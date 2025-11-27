@@ -108,6 +108,5 @@ I enjoy combining **coding with creativity**, making software that is both **fun
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/ahmed.devmail1@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Eng-ahmed-dev1&color=blueviolet&style=flat-square)
 
 </div>
