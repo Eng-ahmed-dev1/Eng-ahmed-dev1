@@ -63,33 +63,14 @@
 
 ---
 
-## 📊 GitHub Analytics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eng-ahmed-dev1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)
-
-</div>
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-ahmed-dev1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eng-ahmed-dev1&theme=tokyonight&hide_border=true)
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Eng-ahmed-dev1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
