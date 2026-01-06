@@ -4,7 +4,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Eng-ahmed-dev1)
 
-### Passionate .NET & WPF C# Developer
+### Passionate .NET 
 
 *I enjoy learning new technologies, solving problems, and building clean, functional, and beautiful software.*
 
