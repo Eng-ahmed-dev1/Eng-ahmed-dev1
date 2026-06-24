@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahmed%20Hassan&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20.NET%20Developer&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahmed%20Alaa&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20.NET%20Developer&descAlignY=58&descSize=20"/>
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Building+Scalable+.NET+Systems+%E2%9A%99%EF%B8%8F;Clean+Architecture+%7C+Microservices+%F0%9F%9A%80;Turning+Coffee+Into+Code+%E2%98%95;Always+Shipping%2C+Always+Learning+%F0%9F%93%88" alt="Typing SVG" /></a>
